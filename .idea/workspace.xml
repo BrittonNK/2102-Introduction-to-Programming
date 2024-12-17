@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="2102_Introduction_to_Programming" targetName="2102_Introduction_to_Programming" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d0e45be-a206-48d9-8c81-1a6dce0e7d85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreditProgram.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivisionGame.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradingSystem.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntegerReverse.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaxProgram.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValueOfExProgram.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Assignment I Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/Assignment I Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/ValueOfExProgram/ValueOfExProgram.c" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/ValueOfExProgram/ValueOfExProgram.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BrittonNK&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BrittonNK/2102-Introduction-to-Programming.git&quot;,
+    &quot;accountId&quot;: &quot;528f9ebf-7585-4398-afed-72738f582736&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assignment1/Credit Program/CreditProgram.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assignment1/Division Game/DivisionGame.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qB8aHA73IbkRbmycW53eRoWwFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.CreditProgram.c.executor": "Run",
+    "C/C++ File.DivisionGame.c.executor": "Run",
+    "C/C++ File.GradingSystem.c.executor": "Run",
+    "C/C++ File.IntegerReverse.c.executor": "Run",
+    "C/C++ File.TaxProgram.c.executor": "Run",
+    "C/C++ File.ValueOfExProgram.c.executor": "Run",
+    "C/C++ File.game.c.executor": "Run",
+    "CMake Application.2102_Introduction_to_Programming.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Britton/OneDrive/Documents/GitHub/2102-Introduction-to-Programming/Assignment2/IntegerReverse/IntegerReverse.c",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2" />
+      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\IntegerReverse" />
+      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\StoneKnifePaperGame" />
+      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment1\Tax Program" />
+      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment1\Grading System" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.ValueOfExProgram.c">
+    <configuration name="2102_Introduction_to_Programming" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102_Introduction_to_Programming" TARGET_NAME="2102_Introduction_to_Programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2102_Introduction_to_Programming" RUN_TARGET_NAME="2102_Introduction_to_Programming">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditProgram.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="CreditProgram.c" CONFIG_NAME="CreditProgram.c">
+      <option name="sourceFile" value="Assignment1\Credit Program\CreditProgram.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionGame.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="DivisionGame.c" CONFIG_NAME="DivisionGame.c">
+      <option name="sourceFile" value="Assignment1\Division Game\DivisionGame.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradingSystem.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="GradingSystem.c" CONFIG_NAME="GradingSystem.c">
+      <option name="sourceFile" value="Assignment1\Grading System\GradingSystem.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerReverse.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="IntegerReverse.c" CONFIG_NAME="IntegerReverse.c">
+      <option name="sourceFile" value="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\IntegerReverse\IntegerReverse.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxProgram.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="TaxProgram.c" CONFIG_NAME="TaxProgram.c">
+      <option name="sourceFile" value="Assignment1\Tax Program\TaxProgram.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueOfExProgram.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="ValueOfExProgram.c" CONFIG_NAME="ValueOfExProgram.c">
+      <option name="sourceFile" value="Assignment2\ValueOfExProgram\ValueOfExProgram.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="game.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="game.c" CONFIG_NAME="game.c">
+      <option name="sourceFile" value="Assignment2\StoneKnifePaperGame\game.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.ValueOfExProgram.c" />
+      <item itemvalue="C/C++ File.game.c" />
+      <item itemvalue="C/C++ File.CreditProgram.c" />
+      <item itemvalue="C/C++ File.DivisionGame.c" />
+      <item itemvalue="C/C++ File.GradingSystem.c" />
+      <item itemvalue="C/C++ File.TaxProgram.c" />
+      <item itemvalue="C/C++ File.IntegerReverse.c" />
+      <item itemvalue="CMake Application.2102_Introduction_to_Programming" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d0e45be-a206-48d9-8c81-1a6dce0e7d85" name="Changes" comment="" />
+      <created>1734124670133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734124670133</updated>
+      <workItem from="1734124671377" duration="1984000" />
+      <workItem from="1734127116020" duration="26000" />
+      <workItem from="1734127235477" duration="347000" />
+      <workItem from="1734127595450" duration="851000" />
+      <workItem from="1734286533061" duration="268000" />
+      <workItem from="1734286915676" duration="945000" />
+      <workItem from="1734287880669" duration="4793000" />
+      <workItem from="1734337981088" duration="454000" />
+      <workItem from="1734339663103" duration="791000" />
+      <workItem from="1734415752947" duration="7537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
