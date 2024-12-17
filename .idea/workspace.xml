@@ -30,18 +30,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0e45be-a206-48d9-8c81-1a6dce0e7d85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreditProgram.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DivisionGame.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradingSystem.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntegerReverse.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaxProgram.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueOfExProgram.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/Assignment I Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/Assignment I Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ValueOfExProgram/ValueOfExProgram.c" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/ValueOfExProgram/ValueOfExProgram.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2/CalculatorProgram/CalculatorProgram.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2/CompanySalesProgram/CompanySalesProgram.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +93,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Britton/OneDrive/Documents/GitHub/2102-Introduction-to-Programming/Assignment2/IntegerReverse/IntegerReverse.c",
+    "last_opened_file_path": "C:/Users/Britton/OneDrive/Documents/GitHub/2102-Introduction-to-Programming/Assignment2/CalculatorProgram/CalculatorProgram.c",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -124,6 +115,18 @@
     <configuration name="2102_Introduction_to_Programming" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102_Introduction_to_Programming" TARGET_NAME="2102_Introduction_to_Programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2102_Introduction_to_Programming" RUN_TARGET_NAME="2102_Introduction_to_Programming">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorProgram.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="CalculatorProgram.c" CONFIG_NAME="CalculatorProgram.c">
+      <option name="sourceFile" value="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\CalculatorProgram\CalculatorProgram.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanySalesProgram.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="CompanySalesProgram.c" CONFIG_NAME="CompanySalesProgram.c">
+      <option name="sourceFile" value="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\CompanySalesProgram\CompanySalesProgram.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="CreditProgram.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102-Introduction-to-Programming" TARGET_NAME="CreditProgram.c" CONFIG_NAME="CreditProgram.c">
@@ -170,6 +173,8 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.ValueOfExProgram.c" />
+      <item itemvalue="C/C++ File.CompanySalesProgram.c" />
+      <item itemvalue="C/C++ File.CalculatorProgram.c" />
       <item itemvalue="C/C++ File.game.c" />
       <item itemvalue="C/C++ File.CreditProgram.c" />
       <item itemvalue="C/C++ File.DivisionGame.c" />
@@ -196,7 +201,7 @@
       <workItem from="1734287880669" duration="4793000" />
       <workItem from="1734337981088" duration="454000" />
       <workItem from="1734339663103" duration="791000" />
-      <workItem from="1734415752947" duration="7537000" />
+      <workItem from="1734415752947" duration="9372000" />
     </task>
     <servers />
   </component>
