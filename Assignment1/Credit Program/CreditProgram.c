@@ -51,5 +51,6 @@ int main(){
     printf("Customers Served: %d",n_customers-1);
 
     return  0;
+    
 }
 //Brittonnetic
