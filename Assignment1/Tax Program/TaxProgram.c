@@ -61,6 +61,7 @@ int main() {
             break;
         }
         counter++;
+        
     }
 }
 //Brittonnetic
