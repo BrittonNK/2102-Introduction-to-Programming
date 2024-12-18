@@ -7,7 +7,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -30,9 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0e45be-a206-48d9-8c81-1a6dce0e7d85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment2/CalculatorProgram/CalculatorProgram.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment2/CompanySalesProgram/CompanySalesProgram.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/CalculatorProgram/CalculatorProgram.c" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/CalculatorProgram/CalculatorProgram.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueOfExProgram.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ValueOfExProgram.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +77,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.CalculatorProgram.c.executor": "Run",
     "C/C++ File.CreditProgram.c.executor": "Run",
     "C/C++ File.DivisionGame.c.executor": "Run",
     "C/C++ File.GradingSystem.c.executor": "Run",
@@ -104,14 +104,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\CalculatorProgram" />
       <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2" />
       <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\IntegerReverse" />
       <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment2\StoneKnifePaperGame" />
       <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment1\Tax Program" />
-      <recent name="C:\Users\Britton\OneDrive\Documents\GitHub\2102-Introduction-to-Programming\Assignment1\Grading System" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.ValueOfExProgram.c">
+  <component name="RunManager" selected="C/C++ File.CalculatorProgram.c">
     <configuration name="2102_Introduction_to_Programming" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2102_Introduction_to_Programming" TARGET_NAME="2102_Introduction_to_Programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2102_Introduction_to_Programming" RUN_TARGET_NAME="2102_Introduction_to_Programming">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -201,7 +201,8 @@
       <workItem from="1734287880669" duration="4793000" />
       <workItem from="1734337981088" duration="454000" />
       <workItem from="1734339663103" duration="791000" />
-      <workItem from="1734415752947" duration="9372000" />
+      <workItem from="1734415752947" duration="10025000" />
+      <workItem from="1734512006517" duration="2357000" />
     </task>
     <servers />
   </component>
